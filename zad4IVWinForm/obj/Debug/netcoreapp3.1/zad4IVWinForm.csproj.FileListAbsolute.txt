@@ -1,0 +1,17 @@
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.exe
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.deps.json
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.runtimeconfig.json
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.runtimeconfig.dev.json
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.dll
+C:\Users\Jill\source\repos\zad4IVWinForm\bin\Debug\netcoreapp3.1\zad4IVWinForm.pdb
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.csproj.AssemblyReference.cache
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.Form1.resources
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.Properties.Resources.resources
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.csproj.GenerateResource.cache
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.AssemblyInfoInputs.cache
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.AssemblyInfo.cs
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.dll
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.pdb
+C:\Users\Jill\source\repos\zad4IVWinForm\obj\Debug\netcoreapp3.1\zad4IVWinForm.genruntimeconfig.cache

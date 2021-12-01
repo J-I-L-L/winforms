@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\winforms\\zad2IVWinForms\\zad2IVWinForms.csproj",
-      "projectName": "zad2IVWinForms",
-      "projectPath": "G:\\winforms\\zad2IVWinForms\\zad2IVWinForms.csproj",
+      "projectUniqueName": "C:\\Users\\Jill\\source\\repos\\zad4IVWinForm\\zad4IVWinForm.csproj",
+      "projectName": "zad4IVWinForm",
+      "projectPath": "C:\\Users\\Jill\\source\\repos\\zad4IVWinForm\\zad4IVWinForm.csproj",
       "packagesPath": "C:\\Users\\Jill\\.nuget\\packages\\",
-      "outputPath": "G:\\winforms\\zad2IVWinForms\\obj\\",
+      "outputPath": "C:\\Users\\Jill\\source\\repos\\zad4IVWinForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\SDK\\NuGetPackages"

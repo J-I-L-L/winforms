@@ -1,0 +1,16 @@
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.exe
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.deps.json
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.runtimeconfig.json
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.runtimeconfig.dev.json
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.dll
+G:\winforms\zad2IVWinForms\bin\Debug\netcoreapp3.1\zad2IVWinForms.pdb
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.csproj.AssemblyReference.cache
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.Form1.resources
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.csproj.GenerateResource.cache
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.GeneratedMSBuildEditorConfig.editorconfig
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.AssemblyInfoInputs.cache
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.AssemblyInfo.cs
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.csproj.CoreCompileInputs.cache
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.dll
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.pdb
+G:\winforms\zad2IVWinForms\obj\Debug\netcoreapp3.1\zad2IVWinForms.genruntimeconfig.cache
