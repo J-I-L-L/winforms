@@ -1,0 +1,17 @@
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.csproj.AssemblyReference.cache
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.Form1.resources
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.Properties.Resources.resources
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.csproj.GenerateResource.cache
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.AssemblyInfoInputs.cache
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.AssemblyInfo.cs
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.csproj.CoreCompileInputs.cache
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.exe
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.deps.json
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.runtimeconfig.json
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.runtimeconfig.dev.json
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.dll
+G:\C# solutions\zad3_II_WF\bin\Debug\netcoreapp3.1\zad3_II_WF.pdb
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.dll
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.pdb
+G:\C# solutions\zad3_II_WF\obj\Debug\netcoreapp3.1\zad3_II_WF.genruntimeconfig.cache
