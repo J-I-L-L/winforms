@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zad6_IV_WinForm/1.0.0": {
+        "runtime": {
+          "zad6_IV_WinForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad6_IV_WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.exe
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.deps.json
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.runtimeconfig.json
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.runtimeconfig.dev.json
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.dll
+G:\C# solutions\zad6_IV_WinForm\bin\Debug\netcoreapp3.1\zad6_IV_WinForm.pdb
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.csproj.AssemblyReference.cache
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.Form1.resources
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.csproj.GenerateResource.cache
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.AssemblyInfoInputs.cache
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.AssemblyInfo.cs
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.csproj.CoreCompileInputs.cache
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.dll
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.pdb
+G:\C# solutions\zad6_IV_WinForm\obj\Debug\netcoreapp3.1\zad6_IV_WinForm.genruntimeconfig.cache
