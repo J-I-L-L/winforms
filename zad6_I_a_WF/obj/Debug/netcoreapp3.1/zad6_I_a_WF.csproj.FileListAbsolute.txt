@@ -1,0 +1,16 @@
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.exe
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.deps.json
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.runtimeconfig.json
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.runtimeconfig.dev.json
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.dll
+G:\C# solutions\zad6_I_a_WF\bin\Debug\netcoreapp3.1\zad6_I_a_WF.pdb
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.csproj.AssemblyReference.cache
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.Form1.resources
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.csproj.GenerateResource.cache
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.AssemblyInfoInputs.cache
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.AssemblyInfo.cs
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.csproj.CoreCompileInputs.cache
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.dll
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.pdb
+G:\C# solutions\zad6_I_a_WF\obj\Debug\netcoreapp3.1\zad6_I_a_WF.genruntimeconfig.cache
