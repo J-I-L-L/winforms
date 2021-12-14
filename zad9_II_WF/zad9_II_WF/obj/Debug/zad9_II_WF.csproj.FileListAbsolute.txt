@@ -1,0 +1,9 @@
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\bin\Debug\zad9_II_WF.exe.config
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\bin\Debug\zad9_II_WF.exe
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\bin\Debug\zad9_II_WF.pdb
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.Form1.resources
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.Properties.Resources.resources
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.exe
+C:\Users\susal\source\repos\zad9_II_WF\zad9_II_WF\obj\Debug\zad9_II_WF.pdb
