@@ -1,0 +1,10 @@
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\bin\Debug\zad11_I_WF.exe.config
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\bin\Debug\zad11_I_WF.exe
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\bin\Debug\zad11_I_WF.pdb
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.Form1.resources
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.Properties.Resources.resources
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.exe
+C:\Users\susal\source\repos\zad11_I_WF\zad11_I_WF\obj\Debug\zad11_I_WF.pdb
