@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "zad12_WinForms/1.0.0": {
+        "runtime": {
+          "zad12_WinForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad12_WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
